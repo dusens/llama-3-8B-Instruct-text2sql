@@ -18,7 +18,7 @@
 
 | 模型名称                  |                    LoRA版                    |
 | :------------------------ | :----------------------------------------------------------: |
-| **llama-3-8B-Instruct-text2sql-lora**<br/>(指令模型) | [[🤗Hugging Face]](https://huggingface.co/dusensen/llama-3-8B-Instruct-text2sql-lora)<br/> [[🤖ModelScope]](https://huggingface.co/dusensen/llama-3-8B-Instruct-text2sql-lora)<br/>|
+| **llama-3-8B-Instruct-text2sql-lora**<br/> | [[🤗Hugging Face]](https://huggingface.co/dusensen/llama-3-8B-Instruct-text2sql-lora)<br/> [[🤖ModelScope]](https://huggingface.co/dusensen/llama-3-8B-Instruct-text2sql-lora)<br/>|
 
 ## 贡献者
 
