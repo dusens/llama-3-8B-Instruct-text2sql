@@ -1,7 +1,30 @@
-### 下载地址
+# 项目名称：llama-3-8B-Instruct-text2sql
 
-| 模型名称                  |                    完整版                    |                    LoRA版                    |                    GGUF版                    |
-| :------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **Llama-3-Chinese-8B-Instruct-v2**<br/>(指令模型) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct-v2)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-v2)<br/>[[wisemodel]](https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-v2) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct-v2-lora)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-v2-lora)<br/>[[wisemodel]](https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-v2-lora) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct-v2-gguf)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-v2-gguf) |
-| **Llama-3-Chinese-8B-Instruct**<br/>(指令模型) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct)<br/>[[wisemodel]](https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct-lora)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-lora)<br/>[[wisemodel]](https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-lora) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-instruct-gguf)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-instruct-gguf) |
-| **Llama-3-Chinese-8B**<br/>(基座模型) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b)<br/>[[wisemodel]](https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-lora)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-lora)<br/>[[wisemodel]](https://wisemodel.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-lora) | [[🤗Hugging Face]](https://huggingface.co/hfl/llama-3-chinese-8b-gguf)<br/> [[🤖ModelScope]](https://modelscope.cn/models/ChineseAlpacaGroup/llama-3-chinese-8b-gguf) |
+## 项目简介
+本项目旨在开发和训练一个基于 LLM (Large Language Model) 的模型，该模型可以接受中文自然语言指令并转换为SQL查询语句。我们的目标是提高数据库查询语言的自动化程度，使非专业用户也能轻松进行数据查询。
+
+## 训练数据
+本项目初期使用的训练数据集为 **CSPIDER 中文数据集**，该数据集包含多种数据库环境下的中文到SQL的查询转换样本。我们计划在后续阶段引入更多样的中文文本到SQL的样本，以增强模型的泛化能力和准确性。
+
+## 模型架构
+模型采用的是 `llama-3-8B` 版本，一个拥有38亿参数的大型语言模型，专为理解和生成文本而设计。该模型结构适合复杂的文本理解和生成任务，如自然语言理解、文本生成以及特定领域的语言转换。
+
+## 功能和特点
+- **自然语言理解**：能够准确理解中文自然语言输入。
+- **SQL生成**：基于理解的内容生成符合逻辑的SQL查询语句。
+- **多数据库支持**：适应不同的数据库语言和结构。
+
+## 部署和使用
+项目完成后，模型将部署在云平台上，用户可以通过API调用模型功能，进行中文到SQL的转换。具体的API使用方法将在项目文档中详细说明。
+
+## 贡献者
+(这里可以列出项目的主要贡献者和他们的联系信息)
+
+## 许可证
+本项目采用 MIT 许可证。详细许可信息可以在项目仓库的LICENSE文件中找到。
+
+## 如何参与
+欢迎对中文处理和SQL生成感兴趣的开发者加入我们的项目。你可以通过 GitHub Issue 或 Pull Request 的方式参与项目贡献。
+
+## 联系方式
+(提供联系方式，如电子邮件、项目主页链接等)
