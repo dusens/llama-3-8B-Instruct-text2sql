@@ -14,6 +14,11 @@
 - **SQL生成**：基于理解的内容生成符合逻辑的SQL查询语句。
 
 ## 部署和使用
+### 下载地址
+
+| 模型名称                  |                    LoRA版                    |
+| :------------------------ | :----------------------------------------------------------: |
+| **llama-3-8B-Instruct-text2sql-lora**<br/>(指令模型) | [[🤗Hugging Face]](https://huggingface.co/dusensen/llama-3-8B-Instruct-text2sql-lora)<br/> [[🤖ModelScope]](https://huggingface.co/dusensen/llama-3-8B-Instruct-text2sql-lora)<br/>|
 
 ## 贡献者
 
