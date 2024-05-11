@@ -299,12 +299,11 @@
   </tr>
 </table>
 
-## lora下载地址
+## 下载地址
 
-| 模型名称                  |                    LoRA版                    |
-| :------------------------ | :----------------------------------------------------------: |
-| **llama-3-8B-Instruct-text2sql-lora**<br/> | [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql-lora/summary)<br/>|
-
+| 模型名称                  |                    完整版                    |                    LoRA版                    |                    GGUF版                    |
+| :------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| **llama-3-8B-Instruct-text2sql**<br/>(指令模型) | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql/summary)<br/>[[wisemodel]]() | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql-lora/summary)<br/>[[wisemodel]]() |  |
 
 
 ## 贡献者
