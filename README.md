@@ -161,7 +161,7 @@
 
 | 模型名称                  |                    完整版                    |                    LoRA版                    |                    GGUF版                    |
 | :------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| **llama-3-8B-Instruct-text2sql**<br/>(指令模型) | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql/summary)<br/>[[wisemodel]]() | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql-lora/summary)<br/>[[wisemodel]]() |  |
+| **llama-3-8B-Instruct-text2sql**<br/>(基于Llama-3-Chinese-8B-Instruct-v2) | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql/summary)<br/>[[wisemodel]]() | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql-lora/summary)<br/>[[wisemodel]]() |  |
 
 
 ## 贡献者
