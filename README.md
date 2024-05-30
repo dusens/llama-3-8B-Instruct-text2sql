@@ -66,24 +66,6 @@
     <td>0.230</td>
   </tr>
   <tr>
-    <td>Llama2-7B-Chat</td>
-    <td>lora</td>
-    <td>0.887</td>
-    <td>0.641</td>
-    <td>0.489</td>
-    <td>0.331</td>
-    <td>0.626</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>qlora</td>
-    <td>0.847</td>
-    <td>0.623</td>
-    <td>0.466</td>
-    <td>0.361</td>
-    <td>0.608</td>
-  </tr>
-  <tr>
     <td></td>
     <td>base</td>
     <td>0</td>
@@ -120,33 +102,6 @@
     <td>0.149</td>
   </tr>
   <tr>
-  <td>CodeLlama-7B-Instruct</td>
-    <td>lora</td>
-    <td>0.923</td>
-    <td>0.756</td>
-    <td>0.586</td>
-    <td>0.349</td>
-    <td>0.702</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>qlora</td>
-    <td>0.911</td>
-    <td>0.751</td>
-    <td>0.598</td>
-    <td>0.331</td>
-    <td>0.696</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>base</td>
-    <td>0.698</td>
-    <td>0.601</td>
-    <td>0.408</td>
-    <td>0.271</td>
-    <td>0.539</td>
-  </tr>
-  <tr>
     <td>CodeLlama-13B-Instruct</td>
     <td>lora</td>
     <td>0.94</td>
@@ -174,87 +129,6 @@
     <td>0.335</td>
   </tr>
   <tr>
-    <td>Baichuan2-7B-Chat</td>
-    <td>lora</td>
-    <td>0.871</td>
-    <td>0.63</td>
-    <td>0.448</td>
-    <td>0.295</td>
-    <td>0.603</td>
-  </tr>
-  <tr>
-  <td></td>
-    <td>qlora</td>
-    <td>0.891</td>
-    <td>0.637</td>
-    <td>0.489</td>
-    <td>0.331</td>
-    <td>0.624</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>base</td>
-    <td>0.581</td>
-    <td>0.413</td>
-    <td>0.264</td>
-    <td>0.187</td>
-    <td>0.392</td>
-  </tr>
-    <tr>
-    <td>Baichuan2-13B-Chat</td>
-    <td>lora</td>
-    <td>0.903</td>
-    <td>0.702</td>
-    <td>0.569</td>
-    <td>0.392</td>
-    <td>0.678</td>
-    </tr>
-  <tr>
-  <td></td>
-    <td>qlora</td>
-    <td>0.895</td>
-    <td>0.675</td>
-    <td>0.58</td>
-    <td>0.343</td>
-    <td>0.659</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td>base</td>
-  <td>0.395</td>
-  <td>0.256</td>
-  <td>0.138</td>
-  <td>0.042</td>
-  <td>0.235</td>
-  </tr>
-<tr>
-<td>Qwen-7B-Chat</td>
-  <td>lora</td>
-  <td>0.855</td>
-  <td>0.688</td>
-  <td>0.575</td>
-  <td>0.331</td>
-  <td>0.652</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>qlora</td>
-    <td>0.911</td>
-    <td>0.675</td>
-    <td>0.575</td>
-    <td>0.343</td>
-    <td>0.662</td>
-  </tr>
-  <tr>
-  <td></td>
-  <td>base</td>
-  <td>0.871</td>
-  <td>0.632</td>
-  <td>0.368</td>
-  <td>0.181</td>
-  <td>0.573</td>
-  </tr>
-  <tr>
     <td>Qwen-14B-Chat</td>
     <td>lora</td>
     <td>0.895</td>
@@ -280,24 +154,6 @@
     <td>0</td>
     <td>0</td>
     <td>0</td>
-  </tr>
-  <tr>
-    <td>ChatGLM3-6b</td>
-    <td>lora</td>
-    <td>0.855</td>
-    <td>0.605</td>
-    <td>0.477</td>
-    <td>0.271</td>
-    <td>0.59</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>qlora</td>
-    <td>0.843</td>
-    <td>0.603</td>
-    <td>0.506</td>
-    <td>0.211</td>
-    <td>0.581</td>
   </tr>
 </table>
 
