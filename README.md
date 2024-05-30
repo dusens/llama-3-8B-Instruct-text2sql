@@ -21,6 +21,8 @@
 <Gallery />
 
 
+# todo llama-3-sqlcoder-8b 拥有更好理解文件转sql的相关能力 基座模型将换成 llama-3-sqlcoder-8b
+![image](https://github.com/dusens/llama-3-8B-Instruct-text2sql/assets/35623865/5ee48140-fb79-4942-ae3b-ba6a58c90e47)
 
 ## 模型指标
 - 更新日期: 2024/05/11
