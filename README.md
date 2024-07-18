@@ -5,7 +5,7 @@
 
 ## 新闻
 
-**[2024/07/18]  发布 llama-3-8B-sqlcorder-chinese-Instruct-gguf ，对中文对话能力进行微调,进行了中文text2sql的微调：[hungingface 地址](https://huggingface.co/dusensen/llama-3-8B-sqlcorder-chinese-Instruct-gguf)**
+**[2024/07/18]  发布 llama-3-8B-sqlcorder-chinese-Instruct-gguf ，对中文对话能力进行微调,进行了中文text2sql的微调：[hungingface 地址](https://huggingface.co/text2sql/llama-3-8B-sqlcorder-chinese-Instruct-gguf)**
 
 ## 接下来方向
 - 放出 LLaMA-Factory 微调教程
@@ -156,7 +156,7 @@
 | 模型名称                  |                    完整版                    |                    LoRA版                    |                    GGUF版                    |
 | :------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **llama-3-8B-Instruct-text2sql**<br/>(基于Llama-3-Chinese-8B-Instruct-v2) | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql/summary)<br/>[[wisemodel]]() | [[🤗Hugging Face]]()<br/> [[🤖ModelScope]](https://www.modelscope.cn/models/senjia/llama-3-8B-Instruct-text2sql-lora/summary)<br/>[[wisemodel]]() |  |
-| **llama-3-8B-sqlcorder-chinese-Instruct-gguf**<br/>(基于llama-3-8b-sqlcorder) | |  |[[🤗Hugging Face]](https://huggingface.co/dusensen/llama-3-8B-sqlcorder-chinese-Instruct-gguf)<br/>|
+| **llama-3-8B-sqlcorder-chinese-Instruct-gguf**<br/>(基于llama-3-8b-sqlcorder) | |  |[[🤗Hugging Face]](https://huggingface.co/text2sql/llama-3-8B-sqlcorder-chinese-Instruct-gguf)<br/>|
 
 ## 贡献者
 sensen
