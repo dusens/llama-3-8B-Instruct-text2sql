@@ -6,6 +6,10 @@
 ## 新闻
 
 **[2024/07/18]  发布 llama-3-8B-sqlcorder-chinese-Instruct-gguf ，对中文对话能力进行微调,进行了中文text2sql的微调：[hungingface 地址](https://huggingface.co/dusensen/llama-3-8B-sqlcorder-chinese-Instruct-gguf)**
+
+## 接下来方向
+- 放出 LLaMA-Factory 微调教程
+- 如何使用测试集进行测试
 ## 模型指标
 - 更新日期: 2024/05/11
 - 评价指标: execution accuracy (ex)
