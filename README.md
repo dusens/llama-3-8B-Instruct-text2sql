@@ -151,6 +151,7 @@
 - [BIRD-SQL：](https://bird-bench.github.io/)数据集是一个英文的大规模跨领域文本到SQL基准测试，特别关注大型数据库内容。该数据集包含12,751对文本到SQL数据对和95个数据库，总大小为33.4GB，跨越37个职业领域。BIRD-SQL数据集通过探索三个额外的挑战，即处理大规模和混乱的数据库值、外部知识推理和优化SQL执行效率，缩小了文本到SQL研究与实际应用之间的差距。
 - [CSpider：](https://drive.google.com/drive/folders/1TxCUq1ydPuBdDdHF3MkHT-8zixluQuLa?usp=sharing)2019年9月，西湖大学提出了一个大型中文数据集CSpider，用于复杂和跨领域的语义解析和Text-to-SQL任务，由2位NLP研究人员和1位计算机专业学生从数据集Spider翻译而来，其中包含200个数据库上的10181个问题和5693个独特的复杂SQL查询，具有涵盖138个不同领域的多个表的数据库。
 - [WikiSQL：](https://github.com/salesforce/WikiSQL)2017/09，Salesforce提出了一个大型Text-to-SQL数据集WikiSQL，数据来自Wikipedia，属于单个域，包含80,654个自然语言问题和77,840条SQL语句。 SQL语句的形式比较简单，不包含排序、分组、子查询等复杂操作。
+- [SParC ：](https://drive.usercontent.google.com/download?id=1Uu7NMHTR1tdQw1t7bAuM7OPU4LElVKfg&export=download&authuser=0)2019/06，耶鲁大学提出了一个大型数据集 SParC，用于复杂、跨域、上下文相关（多轮）语义解析和文本到 SQL 任务，该数据集由 4,298 个连贯的问题序列组成（12k+ 个带注释的独特个人问题）由 14 名耶鲁大学学生注释的 SQL 查询），从用户与 138 个领域的 200 个复杂数据库的交互中获得。
 
 ## 下载地址
 
