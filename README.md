@@ -10,6 +10,7 @@
 ## 接下来方向
 - 放出 LLaMA-Factory 微调教程
 - 如何使用测试集进行测试
+- 准备开始llama-3.1-8b 微调
 ## 模型指标
 - 更新日期: 2024/05/11
 - 评价指标: execution accuracy (ex)
